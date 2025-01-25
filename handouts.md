@@ -4,7 +4,7 @@ title: Handouts
 permalink: /handouts/
 ---
 
-Hi! woo!
+[Download the Handout](handouts\Factoring_and_Manipulating_Algebraic_Equations.pdf)
 
 
 [jekyll-organization]: https://github.com/jekyll
