@@ -4,7 +4,7 @@ title: Handouts
 permalink: /handouts/
 ---
 
-Hi
+Hi! woo!
 
 
 [jekyll-organization]: https://github.com/jekyll
