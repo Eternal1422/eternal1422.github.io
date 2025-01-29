@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  The website is meant to collect my math handouts and stuff in one place. I'll probably expand this website and add more things soon. (maybe)
+  Cool Math Handouts!
 
 # Build settings
 
