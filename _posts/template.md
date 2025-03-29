@@ -12,5 +12,5 @@ layout: post
 {% endhighlight %}
 
 
-<!-- See the solution [here]() for the solution and another implementation.  -->
+<!-- See [here]() for the solution and another implementation.  -->
 
