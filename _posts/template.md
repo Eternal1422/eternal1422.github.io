@@ -11,6 +11,7 @@ layout: post
 {% highlight cpp %}
 {% endhighlight %}
 
+### Final Thoughts
 
 <!-- See [here]() for the solution and another implementation.  -->
 
